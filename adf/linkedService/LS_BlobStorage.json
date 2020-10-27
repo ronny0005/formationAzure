@@ -1,0 +1,11 @@
+{
+	"name": "LS_BlobStorage",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"serviceEndpoint": "https://storageformationrtc.blob.core.windows.net",
+			"accountKind": "StorageV2"
+		}
+	}
+}
